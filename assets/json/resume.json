@@ -231,8 +231,16 @@
       ]
     }
   ],
-  "languages": [{"keywords": ["English","Chinese"]}],
-  "interests": [],
-  "references": [],
-  "projects": []
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    }
+  ]
 }
