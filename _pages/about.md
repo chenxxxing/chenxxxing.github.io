@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ig.utexas.edu/'>University of Texas Institute for Geophysics</a>. Austin, TX.
+subtitle: <a href='https://ig.utexas.edu/'>University of Texas Institute for Geophysics</a>, Austin, TX.
 
 profile:
   align: right
