@@ -1,20 +1,20 @@
 {
-  "basics": {
-    "name": "Chen Xing",
-    "label": "Postdoctoral Fellow",
-    "image": "",
-    "phone": "",
-    "url": "",
-    "summary": "",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
-    },
-    "profiles": []
-  },
+  // "basics": {
+  //   "name": "Chen Xing",
+  //   "label": "Postdoctoral Fellow",
+  //   "image": "",
+  //   "phone": "",
+  //   "url": "",
+  //   "summary": "",
+  //   "location": {
+  //     "address": "",
+  //     "postalCode": "",
+  //     "city": "",
+  //     "countryCode": "",
+  //     "region": ""
+  //   },
+  //   "profiles": []
+  // },
   "education": [
     {
       "institution": "University of California, Santa Barbara",
