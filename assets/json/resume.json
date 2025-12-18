@@ -1,341 +1,238 @@
 {
-  "name": "Chen Xing",
-  "current_position": {
-    "title": "PhD Candidate",
-    "institution": "University of California, Santa Barbara",
-    "email": "chenxing@ucsb.edu"
+  "basics": {
+    "name": "Chen Xing",
+    "label": "Postdoctoral Fellow",
+    "image": "",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
   },
   "education": [
     {
       "institution": "University of California, Santa Barbara",
-      "start_year": 2020,
-      "end_year": 2025,
-      "degree": "Ph.D.",
-      "field": "Environmental Science & Management"
+      "location": "",
+      "url": "",
+      "area": "Environmental Science & Management",
+      "studyType": "Ph.D.",
+      "startDate": "2020-09-20",
+      "endDate": "2025-09-20",
+      "score": "",
+      "courses": [],
+      "summary": ""
     },
     {
       "institution": "Nanjing University of Information Science and Technology",
-      "start_year": 2013,
-      "end_year": 2017,
-      "degree": "B.S.",
-      "field": "Atmospheric Science"
+      "location": "",
+      "url": "",
+      "area": "Atmospheric Science",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "endDate": "2017-06-30",
+      "score": "",
+      "courses": [],
+      "summary": ""
     }
   ],
-  "professional_experience": [
+  "work": [
     {
-      "role": "Distinguished Postdoctoral Fellow",
-      "institution": "University of Texas at Austin",
-      "start_year": 2025,
-      "end_note": "present",
-      "advisor": "Dr. Yuko Okumura and Dr. Danielle Touma"
+      "name": "University of Texas at Austin",
+      "position": "Distinguished Postdoctoral Fellow",
+      "url": "",
+      "startDate": "2025-11-01",
+      "endDate": "present",
+      "summary": "Advisor: Dr. Samantha Stevenson",
+      "highlights": []
     },
     {
-      "role": "Graduate Research Assistant",
-      "institution": "University of California, Santa Barbara",
-      "start_year": 2020,
-      "end_year": 2025,
-      "advisor": "Dr. Samantha Stevenson"
+      "name": "University of California, Santa Barbara",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2020-09-20",
+      "endDate": "2025-09-20",
+      "summary": "Advisor: Dr. Samantha Stevenson",
+      "highlights": []
     },
     {
-      "role": "Graduate Research Assistant",
-      "institution": "Nanjing University of Information Science and Technology",
-      "start_year": 2017,
-      "end_year": 2020,
-      "advisor": "Dr. Fei Liu"
+      "name": "Nanjing University of Information Science and Technology",
+      "position": "Graduate Research Assistant",
+      "url": "",
+      "startDate": "2017-09-01",
+      "endDate": "2020-06-30",
+      "summary": "Advisor: Dr. Fei Liu",
+      "highlights": []
     }
   ],
-  "publications": {
-    "submitted": [
- 
-    ],
-    "published": [
-      {
-        "authors": [
-          "Xing, C.",
-          "Stevenson, S.",
-          "Fasullo, J.",
-          "Harrison, C.",
-          "Chen, C.",
-          "Wan, J.",
-          "Coupe, J.",
-          "Pfleger, C."
-        ],
-        "year": 2025,
-        "title": "Subtropical Marine Cloud Brightening Suppresses the El Niño–Southern Oscillation",
-        "journal": "Earth's Future",
-        "volume": 13,
-        "number": 8,
-        "pages": "e2025EF006522",
-        "doi": "10.1029/2025EF006522"
-      },
-      {
-        "authors": [
-          "Xing, C.",
-          "Stevenson, S.",
-          "Di Lorenzo, E.",
-          "Newman, M.",
-          "Capotondi, A.",
-          "Fasullo, J.",
-          "Maher, N."
-        ],
-        "year": 2025,
-        "title": "Apparent Changes in Pacific Decadal Variability Caused by Anthropogenically-Induced Mean State Modulations",
-        "journal": "Geophysical Research Letters",
-        "volume": 52,
-        "number": 20,
-        "pages": "e2025GL116499",
-        "doi": "10.1029/2025GL116499"
-      },
-      {
-        "authors": [
-          "Xing, C.",
-          "Liu, F."
-        ],
-        "year": 2023,
-        "title": "Mount Pinatubo eruption caused the major East China flood in 1991",
-        "journal": "The Innovation Geoscience",
-        "volume": 1,
-        "number": 3,
-        "pages": "100032",
-        "doi": "10.59717/j.xinn-geo.2023.100032"
-      },
-      {
-        "authors": [
-          "Liu, F.",
-          "Xing, C.",
-          "Chen, L.",
-          "Gao, C.",
-          "Lian, T.",
-          "Zhou, S.",
-          "et al."
-        ],
-        "year": 2022,
-        "title": "Relative Roles of Land and Ocean Cooling in Triggering an El Niño Following Tropical Volcanic Eruptions",
-        "journal": "Geophysical Research Letters",
-        "volume": 49,
-        "number": 23,
-        "pages": "e2022GL100609",
-        "doi": "10.1029/2022GL100609"
-      },
-      {
-        "authors": [
-          "Chai, J.",
-          "Liu, F.",
-          "Xing, C.",
-          "Wang, B.",
-          "Gao, C.",
-          "Liu, J.",
-          "Chen, D."
-        ],
-        "year": 2020,
-        "title": "A robust equatorial Pacific westerly response to tropical volcanism in multiple models",
-        "journal": "Climate Dynamics",
-        "volume": 55,
-        "number": "11–12",
-        "pages": "3413–3429",
-        "doi": "10.1007/s00382-020-05453-6"
-      },
-      {
-        "authors": [
-          "Liu, F.",
-          "Xing, C.",
-          "Li, J.",
-          "Wang, B.",
-          "Chai, J.",
-          "Gao, C.",
-          "et al."
-        ],
-        "year": 2020,
-        "title": "Could the Recent Taal Volcano Eruption Trigger an El Niño and Lead to Eurasian Warming?",
-        "journal": "Advances in Atmospheric Sciences",
-        "volume": 37,
-        "number": 7,
-        "pages": "663–670",
-        "doi": "10/gg9q7h"
-      },
-      {
-        "authors": [
-          "Xing, C.",
-          "Liu, F.",
-          "Wang, B.",
-          "Chen, D.",
-          "Liu, J.",
-          "Liu, B."
-        ],
-        "year": 2020,
-        "title": "Boreal Winter Surface Air Temperature Responses to Large Tropical Volcanic Eruptions in CMIP5 Models",
-        "journal": "Journal of Climate",
-        "volume": 33,
-        "number": 6,
-        "pages": "2407–2426",
-        "doi": "10/gg8wts"
-      },
-      {
-        "authors": [
-          "Zhou, X.",
-          "Liu, F.",
-          "Wang, B.",
-          "Xiang, B.",
-          "Xing, C.",
-          "Wang, H."
-        ],
-        "year": 2019,
-        "title": "Different responses of East Asian summer rainfall to El Niño decays",
-        "journal": "Climate Dynamics",
-        "volume": 53,
-        "number": "3–4",
-        "pages": "1497–1515",
-        "doi": "10.1007/s00382-019-04684-6"
-      },
-      {
-        "authors": [
-          "Liu, F.",
-          "Xing, C.",
-          "Sun, L.",
-          "Wang, B.",
-          "Chen, D.",
-          "Liu, J."
-        ],
-        "year": 2018,
-        "title": "How Do Tropical, Northern Hemispheric, and Southern Hemispheric Volcanic Eruptions Affect ENSO Under Different Initial Ocean Conditions?",
-        "journal": "Geophysical Research Letters",
-        "volume": 45,
-        "number": 23,
-        "doi": "10.1029/2018GL080315"
-      }
-    ]
-  },
-  "selected_presentations": [
+  
+  "awards": [
     {
-      "venue": "American Geophysical Union Fall Meeting",
-      "date": "December 2024",
-      "location": "Washington DC",
-      "title": "Apparent Changes in Pacific Decadal Variability Caused by Anthropogenic Forcing-Induced Mean State Modulations"
+      "title": "H. William Kuni Bren Research Award",
+      "date": "2022-01-01",
+      "awarder": "UCSB",
+      "url": "",
+      "summary": ""
     },
     {
-      "venue": "Department of Energy's Earth and Environmental Systems Modeling PI Meeting",
-      "date": "August 2024",
-      "location": "Washington DC",
-      "title": "Apparent Changes in Pacific Decadal Variability Caused by Anthropogenic Forcing-Induced Mean State Modulations"
+      "title": "Bren Fellowship",
+      "date": "2020-01-01",
+      "awarder": "UCSB",
+      "url": "",
+      "summary": ""
     },
     {
-      "venue": "Gordon Research Conference and Seminar of Climate Engineering",
-      "date": "February 2024",
-      "location": "Lucca, Italy",
-      "format": "Oral and Poster",
-      "title": "Subtropical Marine Cloud Brightening Suppresses the El Niño–Southern Oscillation"
+      "title": "Second-Class Scholarship for Graduate",
+      "date": "2019-01-01",
+      "awarder": "NUIST",
+      "url": "",
+      "summary": ""
     },
     {
-      "venue": "American Geophysical Union Fall Meeting",
-      "date": "December 2023",
-      "location": "San Francisco, CA",
-      "format": "Oral",
-      "title": "Why does Marine Cloud Brightening dampen El Niño–Southern Oscillation"
+      "title": "First-Class Scholarship for Graduate",
+      "date": "2018-01-01",
+      "awarder": "NUIST",
+      "url": "",
+      "summary": ""
     },
     {
-      "venue": "Solar Climate Intervention Virtual Symposia",
-      "date": "November 2023",
-      "location": "Virtual",
-      "format": "Invited Talk",
-      "title": "Why does Marine Cloud Brightening dampen El Niño–Southern Oscillation"
+      "title": "Excellent Honor Graduate Award",
+      "date": "2017-01-01",
+      "awarder": "NUIST",
+      "url": "",
+      "summary": ""
     },
     {
-      "venue": "NOAA Physical Sciences Laboratory Seminar",
-      "date": "September 2022",
-      "location": "Virtual",
-      "format": "Invited Talk",
-      "title": "Aerosol emissions influence the evolution of North Pacific gyre circulation"
+      "title": "First-Class Scholarship",
+      "date": "2017-01-01",
+      "awarder": "NUIST",
+      "url": "",
+      "summary": ""
     },
     {
-      "venue": "Ocean Sciences Meeting",
-      "date": "March 2022",
-      "location": "Virtual",
-      "format": "Oral",
-      "title": "Aerosols Influence on North Pacific Ocean Variability"
+      "title": "Second-Class Scholarship",
+      "date": "2015-01-01",
+      "awarder": "NUIST",
+      "url": "",
+      "summary": ""
     },
     {
-      "venue": "American Geophysical Union Fall Meeting",
-      "date": "December 2021",
-      "location": "New Orleans, LA",
-      "format": "Oral",
-      "title": "Anthropogenic Aerosol Triggered Multi-Decadal North Pacific Ocean Variability Responses in CESM Large Ensemble Project"
-    },
-    {
-      "venue": "National Postdoctoral Forum on Marine Science and Engineering",
-      "date": "October 2019",
-      "location": "Zhuhai, China",
-      "format": "Oral",
-      "title": "Disappearance of Western North Pacific Anomalous Anticyclone in Post-El Niño Summers during Little Ice Age"
-    },
-    {
-      "venue": "NJU-NUIST Joint Symposium on Climate Dynamics",
-      "date": "May 2019",
-      "location": "Nanjing, China",
-      "format": "Oral",
-      "title": "Changes of El Niño-Asian Summer Monsoon Relationship during Last Half Millennium"
-    },
-    {
-      "venue": "International Workshop on the Decadal-Centennial Variability of Global Monsoon",
-      "date": "June 2018",
-      "location": "Honolulu, Hawaii",
-      "format": "Oral",
-      "title": "Boreal-winter Surface Air Temperature Responses to Large Volcanic Eruptions in CMIP5 Models"
+      "title": "First-Class Scholarship",
+      "date": "2014-01-01",
+      "awarder": "NUIST",
+      "url": "",
+      "summary": ""
     }
   ],
-  "professional_service": [
+  "certificates": [],
+  "volunteer": [
     {
-      "role": "Reviewer",
-      "organization": "Nature Communications, Geophysical Research Letters",
+      "organization": "Nature Communications",
+      "location": "",
+      "position": "Reviewer",
+      "url": "",
+      "summary": "",
+      "highlights": []
     }
   ],
-  "honors_and_awards": [
+  // "publications": [
+  //   {
+  //     "name": "Subtropical Marine Cloud Brightening Suppresses the El Ni˜no–Southern Oscillation",
+  //     "publisher": "PNAS",
+  //     "releaseDate": "",
+  //     "url": "",
+  //     "summary": "Xing, C., Stevenson, S., Fasullo, J., Harrison, C., Chen, C., Wan, J., Coupe, J., & Pfleger, C. Subtropical Marine Cloud Brightening Suppresses the El Ni˜no–Southern Oscillation. Submitted to PNAS."
+  //   },
+  //   {
+  //     "name": "Apparent Changes in Pacific Decadal Variability Caused by Anthropogenically-Induced Mean State Modulations",
+  //     "publisher": "GRL",
+  //     "releaseDate": "",
+  //     "url": "",
+  //     "summary": "Xing, C., Stevenson, S., Di Lorenzo, E., Newman, M., Capotondi, A., Fasullo, J., & Maher, N. Apparent Changes in Pacific Decadal Variability Caused by Anthropogenically-Induced Mean State Modulations. Submitted to GRL."
+  //   },
+  //   {
+  //     "name": "Mount Pinatubo eruption caused the major East China flood in 1991",
+  //     "publisher": "The Innovation Geoscience",
+  //     "releaseDate": "2023-01-01",
+  //     "url": "https://doi.org/10.59717/j.xinn-geo.2023.100032",
+  //     "summary": "Xing, C., & Liu, F. (2023). Mount Pinatubo eruption caused the major East China flood in 1991. The Innovation Geoscience, 100032–3."
+  //   },
+  //   {
+  //     "name": "Relative Roles of Land and Ocean Cooling in Triggering an El Ni˜no Following Tropical Volcanic Eruptions",
+  //     "publisher": "Geophysical Research Letters",
+  //     "releaseDate": "2022-01-01",
+  //     "url": "https://doi.org/10.1029/2022GL100609",
+  //     "summary": "Liu, F., Xing, C., Chen, L., Gao, C., Lian, T., Zhou, S., et al. (2022). Relative Roles of Land and Ocean Cooling in Triggering an El Ni˜no Following Tropical Volcanic Eruptions. Geophysical Research Letters, 49(23), e2022GL100609."
+  //   },
+  //   {
+  //     "name": "A robust equatorial Pacific westerly response to tropical volcanism in multiple models",
+  //     "publisher": "Climate Dynamics",
+  //     "releaseDate": "2020-01-01",
+  //     "url": "https://doi.org/10.1007/s00382-020-05453-6",
+  //     "summary": "Chai, J., Liu, F., Xing, C., Wang, B., Gao, C., Liu, J., & Chen, D. (2020). A robust equatorial Pacific westerly response to tropical volcanism in multiple models. Climate Dynamics, 55(11–12), 3413–3429."
+  //   },
+  //   {
+  //     "name": "Could the Recent Taal Volcano Eruption Trigger an El Ni˜no and Lead to Eurasian Warming?",
+  //     "publisher": "Advances in Atmospheric Sciences",
+  //     "releaseDate": "2020-01-01",
+  //     "url": "https://doi.org/10/gg9q7h",
+  //     "summary": "Liu, F., Xing, C., Li, J., Wang, B., Chai, J., Gao, C., et al. (2020). Could the Recent Taal Volcano Eruption Trigger an El Ni˜no and Lead to Eurasian Warming?. Advances in Atmospheric Sciences, 37(7), 663–670."
+  //   },
+  //   {
+  //     "name": "Boreal Winter Surface Air Temperature Responses to Large Tropical Volcanic Eruptions in CMIP5 Models",
+  //     "publisher": "Journal of Climate",
+  //     "releaseDate": "2020-01-01",
+  //     "url": "https://doi.org/10/gg8wts",
+  //     "summary": "Xing, C., Liu, F., Wang, B., Chen, D., Liu, J., & Liu, B. (2020). Boreal Winter Surface Air Temperature Responses to Large Tropical Volcanic Eruptions in CMIP5 Models. Journal of Climate, 33(6), 2407–2426."
+  //   },
+  //   {
+  //     "name": "Different responses of East Asian summer rainfall to El Ni˜no decays",
+  //     "publisher": "Climate Dynamics",
+  //     "releaseDate": "2019-01-01",
+  //     "url": "https://doi.org/10.1007/s00382-019-04684-6",
+  //     "summary": "Zhou, X., Liu, F., Wang, B., Xiang, B., Xing, C., & Wang, H. (2019). Different responses of East Asian summer rainfall to El Ni˜no decays. Climate Dynamics, 53(3–4), 1497–1515."
+  //   },
+  //   {
+  //     "name": "How Do Tropical, Northern Hemispheric, and Southern Hemispheric Volcanic Eruptions Affect ENSO Under Different Initial Ocean Conditions?",
+  //     "publisher": "Geophysical Research Letters",
+  //     "releaseDate": "2018-01-01",
+  //     "url": "https://doi.org/10.1029/2018GL080315",
+  //     "summary": "Liu, F., Xing, C., Sun, L., Wang, B., Chen, D., & Liu, J. (2018). How Do Tropical, Northern Hemispheric, and Southern Hemispheric Volcanic Eruptions Affect ENSO Under Different Initial Ocean Conditions?. Geophysical Research Letters, 45(23)."
+  //   }
+  // ],
+  "skills": [
     {
-      "name": "H. William Kuni Bren Research Award, UCSB",
-      "year": 2022
+      "name": "Programming Languages",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "NCL",
+        "CDO",
+        "Python",
+        "FORTRAN",
+        "C++",
+        "Linux"
+      ]
     },
     {
-      "name": "Bren Fellowship, UCSB",
-      "year": 2020
-    },
-    {
-      "name": "Second-Class Scholarship for Graduate, NUIST",
-      "year": 2019
-    },
-    {
-      "name": "First-Class Scholarship for Graduate, NUIST",
-      "year": 2018
-    },
-    {
-      "name": "Excellent Honor Graduate Award, NUIST",
-      "year": 2017
-    },
-    {
-      "name": "First-Class Scholarship, NUIST",
-      "year": 2017
-    },
-    {
-      "name": "Second-Class Scholarship, NUIST",
-      "year": 2015
-    },
-    {
-      "name": "First-Class Scholarship, NUIST",
-      "year": 2014
+      "name": "Techniques",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Climate Modeling",
+        "Large climate model data",
+        "Data Visualization",
+        "Statistical Analysis"
+      ]
     }
   ],
-  "technical_skills": {
-    "programming_languages": [
-      "NCL",
-      "CDO",
-      "Python",
-      "FORTRAN",
-      "C++",
-      "Linux"
-    ],
-    "techniques": [
-      "Climate Modeling",
-      "Large climate model data",
-      "Data Visualization",
-      "Statistical Analysis"
-    ]
-  }
+  "languages": ["English","Chinese"],
+  "interests": [],
+  "references": [],
+  "projects": []
 }
