@@ -132,7 +132,7 @@
   "certificates": [],
   "volunteer": [
     {
-      "organization": "Nature Communications",
+      "organization": "Nature Communications, Geophysical Research Letters",
       "location": "",
       "position": "Reviewer",
       "url": "",
@@ -231,7 +231,7 @@
       ]
     }
   ],
-  "languages": ["English","Chinese"],
+  "languages": [{"keywords": ["English","Chinese"]}],
   "interests": [],
   "references": [],
   "projects": []
