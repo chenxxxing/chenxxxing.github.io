@@ -376,10 +376,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-a-hard-look-at-geoengineering-reveals-global-risks-the-current",
+            },},{id: "news-a-hard-look-at-geoengineering-reveals-global-risks-the-current",
           title: '“A hard look at geoengineering reveals global risks” The Current',
           description: "",
           section: "News",},{id: "projects-project-1",
