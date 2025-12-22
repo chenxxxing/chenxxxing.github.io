@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a postdoctoral fellow at Univeristy of Texas Institute for Geophysics, working with [Yuko Okumura](https://ig.utexas.edu/staff/yuko-okumura/) and [Danielle Touma](https://www.danielletouma.com/). I earned my B.S. in Atmospheric Science from Nanjing University of Information Science & Technology and my Ph.D. in Environmental Science and Management from the University of California, Santa Barbara, advised by [Samantha Stevenson](https://www.samanthalstevenson.com/).
+I'm Chen Xing (邢辰), a postdoctoral fellow at Univeristy of Texas Institute for Geophysics, working with [Yuko Okumura](https://ig.utexas.edu/staff/yuko-okumura/) and [Danielle Touma](https://www.danielletouma.com/). I earned my B.S. in Atmospheric Science from Nanjing University of Information Science & Technology and my Ph.D. in Environmental Science and Management from the University of California, Santa Barbara, advised by [Samantha Stevenson](https://www.samanthalstevenson.com/).
 
 My research focuses on climate variability and mean-state change, with an emphasis on how the climate system responds to external forcings, including anthropogenic aerosols, greenhouse gases, volcanic eruptions, and solar radiation management. I use climate model experiments and large ensembles to understand the mechanisms that shape regional climate impacts and modes of variability such as ENSO and Pacific decadal variability. Please check out [projects](https://chenxxxing.github.io/projects/) for more.
