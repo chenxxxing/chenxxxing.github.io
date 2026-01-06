@@ -74,56 +74,56 @@
   "awards": [
     {
       "title": "H. William Kuni Bren Research Award",
-      "date": "2022-01-01",
+      "date": "2022",
       "awarder": "UCSB",
       "url": "",
       "summary": ""
     },
     {
       "title": "Bren Fellowship",
-      "date": "2020-01-01",
+      "date": "2020",
       "awarder": "UCSB",
       "url": "",
       "summary": ""
     },
     {
       "title": "Second-Class Scholarship for Graduate",
-      "date": "2019-01-01",
+      "date": "2019",
       "awarder": "NUIST",
       "url": "",
       "summary": ""
     },
     {
       "title": "First-Class Scholarship for Graduate",
-      "date": "2018-01-01",
+      "date": "2018",
       "awarder": "NUIST",
       "url": "",
       "summary": ""
     },
     {
       "title": "Excellent Honor Graduate Award",
-      "date": "2017-01-01",
+      "date": "2017",
       "awarder": "NUIST",
       "url": "",
       "summary": ""
     },
     {
       "title": "First-Class Scholarship",
-      "date": "2017-01-01",
+      "date": "2017",
       "awarder": "NUIST",
       "url": "",
       "summary": ""
     },
     {
       "title": "Second-Class Scholarship",
-      "date": "2015-01-01",
+      "date": "2015",
       "awarder": "NUIST",
       "url": "",
       "summary": ""
     },
     {
       "title": "First-Class Scholarship",
-      "date": "2014-01-01",
+      "date": "2014",
       "awarder": "NUIST",
       "url": "",
       "summary": ""
@@ -215,7 +215,7 @@
         "CDO",
         "Python",
         "FORTRAN",
-        "C++",
+        "C",
         "Linux"
       ]
     },
@@ -224,16 +224,16 @@
       "level": "",
       "icon": "",
       "keywords": [
-        "Climate Modeling",
+        "Climate modeling",
         "Large climate model data",
-        "Data Visualization",
-        "Statistical Analysis"
+        "Data visualization",
+        "Statistical analysis"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Chinese",
+      "language": "Mandarin",
       "fluency": "Native speaker",
       "icon": ""
     },
