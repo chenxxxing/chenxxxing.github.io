@@ -48,7 +48,7 @@
       "url": "",
       "startDate": "2025-11-01",
       "endDate": "present",
-      "summary": "Advisor: Dr. Samantha Stevenson",
+      //"summary": "Advisor: Dr. Samantha Stevenson",
       "highlights": []
     },
     {
@@ -132,7 +132,7 @@
   "certificates": [],
   "volunteer": [
     {
-      "organization": "Nature Communications, Geophysical Research Letters",
+      "organization": "Nature Communications, Geophysical Research Letters, Earth's Future",
       "location": "",
       "position": "Reviewer",
       "url": "",
