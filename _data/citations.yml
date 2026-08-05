@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-05'
 papers:
   j1lk364AAAAJ:2osOgNQ5qMEC:
     citations: 19
@@ -25,20 +25,28 @@ papers:
     citations: 0
     title: Apparent Changes in Pacific Decadal Variability Caused by Aerosol-Driven Mean State Modulations
     year: '2024'
+  j1lk364AAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: Could the Recent Taal Volcano Eruption Trigger an El Nino and Lead to Eurasian Warming?(vol 37, pg 663, 2020)
+    year: '2020'
   j1lk364AAAAJ:YsMSGLbcyi4C:
     citations: 4
     title: "Subtropical marine cloud brightening suppresses the El Ni\xF1o\u2013Southern Oscillation"
     year: '2025'
+  j1lk364AAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: "Erratum to: Could the Recent Taal Volcano Eruption Trigger an El Ni\xF1o and Lead to Eurasian Warming?"
+    year: '2020'
   j1lk364AAAAJ:d1gkVwhDpl0C:
     citations: 20
-    title: A robust equatorial Pacific westerly response to tropical volcanism in multiple models
+    title: 'A robust equatorial Pacific westerly response to tropical volcanism in multiple models: J. Chai et al.'
     year: '2020'
   j1lk364AAAAJ:eQOLeE2rZwMC:
     citations: 0
     title: Apparent changes in Pacific decadal variability caused by anthropogenically induced mean state modulations
     year: '2025'
   j1lk364AAAAJ:qjMakFHDy7sC:
-    citations: 56
+    citations: 55
     title: "Different responses of East Asian summer rainfall to El Ni\xF1o decays"
     year: '2019'
   j1lk364AAAAJ:u-x6o8ySG0sC:
@@ -49,6 +57,10 @@ papers:
     citations: 34
     title: How do tropical, northern hemispheric, and southern hemispheric volcanic eruptions affect ENSO under different initial ocean conditions?
     year: '2018'
+  j1lk364AAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: "Supporting data for\" Relative roles of land and ocean cooling in triggering an El Ni\xF1o following tropical volcanic eruptions\""
+    year: '2022'
   j1lk364AAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: Intensified Pacific Decadal Variability by Anthropogenic Aerosol Forcing in CMIP6 models
